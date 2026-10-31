@@ -9,11 +9,11 @@ Software Engineering student at **Cyprus International University** (graduating 
 
 ## Tech stack
 
-**Languages:** Python · JavaScript · Java · C# · PHP · C++ · SQL
-**Backend:** FastAPI · REST APIs · JWT authentication · pytest
-**Frontend:** React · React Native · HTML · CSS
-**Databases:** PostgreSQL · MySQL
-**Tools:** Git · GitHub · Jira · Figma
+- **Languages:** Python · JavaScript · Java · C# · PHP · C++ · SQL
+- **Backend:** FastAPI · REST APIs · JWT authentication · pytest
+- **Frontend:** React · React Native · HTML · CSS
+- **Databases:** PostgreSQL · MySQL
+- **Tools:** Git · GitHub · Jira · Figma
 
 ## Projects
 
